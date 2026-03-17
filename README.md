@@ -1,7 +1,7 @@
 [Uploading README.md…]()
 # Inverse Design for Magnesium Hydroxide Precipitation
 
-![Mirror model workflow](docs/mirror_model_banner.png)
+<img width="1786" height="1125" alt="GA" src="https://github.com/user-attachments/assets/67e8abc8-eafb-4a22-941e-ea3d3cdb0e2a" />
 
 ## Overview
 
