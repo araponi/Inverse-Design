@@ -55,7 +55,7 @@ The mirror model described in the reference implementation uses a fully connecte
 - learning rate: **1e-3**
 - loss function: **mean absolute error**
 - batch size: **60**
-- maximum epochs: **2000**
+- maximum epochs: **10000**
 
 ### Preprocessing
 
