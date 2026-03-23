@@ -70,8 +70,8 @@ Before training:
 ### Data Split
 
 The full dataset is divided into:
-- **90% training**
-- **10% hold-out / validation**
+- **80% training**
+- **20% hold-out / validation**
 
 The best model is selected through checkpointing based on the minimum validation loss.
 
